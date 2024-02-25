@@ -1,0 +1,118 @@
+Inicio de la carga de cartas: 2024-01-26 22:58:48
+Carta Leida: 1 de bastos
+Carta Esperada: 1 de bastos
+Las cartas coinciden
+Carta Leida: 1 de espadas
+Carta Esperada: 1 de espadas
+Las cartas coinciden
+Carta Leida: 1 de oros
+Carta Esperada: 1 de oros
+Las cartas coinciden
+Carta Leida: 1 de copas
+Carta Esperada: 1 de copas
+Las cartas coinciden
+Carta Leida: 2 de bastos
+Carta Esperada: 2 de bastos
+Las cartas coinciden
+Carta Leida: 2 de espadas
+Carta Esperada: 2 de espadas
+Las cartas coinciden
+Carta Leida: 2 de oros
+Carta Esperada: 2 de oros
+Las cartas coinciden
+Carta Leida: 2 de copas
+Carta Esperada: 2 de copas
+Las cartas coinciden
+Carta Leida: 3 de bastos
+Carta Esperada: 3 de bastos
+Las cartas coinciden
+Carta Leida: 3 de espadas
+Carta Esperada: 3 de espadas
+Las cartas coinciden
+Carta Leida: 3 de oros
+Carta Esperada: 3 de oros
+Las cartas coinciden
+Carta Leida: 3 de copas
+Carta Esperada: 3 de copas
+Las cartas coinciden
+Carta Leida: 4 de bastos
+Carta Esperada: 4 de bastos
+Las cartas coinciden
+Carta Leida: 4 de espadas
+Carta Esperada: 4 de espadas
+Las cartas coinciden
+Carta Leida: 4 de oros
+Carta Esperada: 4 de oros
+Las cartas coinciden
+Carta Leida: 4 de copas
+Carta Esperada: 4 de copas
+Las cartas coinciden
+Carta Leida: 5 de bastos
+Carta Esperada: 5 de bastos
+Las cartas coinciden
+Carta Leida: 5 de espadas
+Carta Esperada: 5 de espadas
+Las cartas coinciden
+Carta Leida: 2 de oros
+Carta Esperada: 5 de oros
+Las cartas no coinciden
+Carta Leida: 5 de copas
+Carta Esperada: 5 de copas
+Las cartas coinciden
+Carta Leida: 6 de bastos
+Carta Esperada: 6 de bastos
+Las cartas coinciden
+Carta Leida: 6 de espadas
+Carta Esperada: 6 de espadas
+Las cartas coinciden
+Carta Leida: 6 de oros
+Carta Esperada: 6 de oros
+Las cartas coinciden
+Carta Leida: 6 de copas
+Carta Esperada: 6 de copas
+Las cartas coinciden
+Carta Leida: 7 de bastos
+Carta Esperada: 7 de bastos
+Las cartas coinciden
+Carta Leida: 7 de espadas
+Carta Esperada: 7 de espadas
+Las cartas coinciden
+Carta Leida: 7 de oros
+Carta Esperada: 7 de oros
+Las cartas coinciden
+Carta Leida: 7 de copas
+Carta Esperada: 7 de copas
+Las cartas coinciden
+Carta Leida: 10 de bastos
+Carta Esperada: 10 de bastos
+Las cartas coinciden
+Carta Leida: 10 de espadas
+Carta Esperada: 10 de espadas
+Las cartas coinciden
+Carta Leida: 10 de oros
+Carta Esperada: 10 de oros
+Las cartas coinciden
+Carta Leida: 10 de copas
+Carta Esperada: 10 de copas
+Las cartas coinciden
+Carta Leida: 11 de bastos
+Carta Esperada: 11 de bastos
+Las cartas coinciden
+Carta Leida: 11 de espadas
+Carta Esperada: 11 de espadas
+Las cartas coinciden
+Carta Leida: 11 de oros
+Carta Esperada: 11 de oros
+Las cartas coinciden
+Carta Leida: 11 de copas
+Carta Esperada: 11 de copas
+Las cartas coinciden
+Carta Leida: 12 de bastos
+Carta Esperada: 12 de bastos
+Las cartas coinciden
+Carta Leida: 12 de espadas
+Carta Esperada: 12 de espadas
+Las cartas coinciden
+Carta Leida: 12 de oros
+Carta Esperada: 12 de oros
+Las cartas coinciden
